@@ -1,0 +1,13 @@
+{
+    "name": "shaman/test",
+    "require": {
+        "klein/klein": "^2.1",
+        "robmorgan/phinx": "*"
+    },
+    "authors": [
+        {
+            "name": "Shaman",
+            "email": "shaolanych@gmail.com"
+        }
+    ]
+}
